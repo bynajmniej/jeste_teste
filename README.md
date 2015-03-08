@@ -1,2 +1,6 @@
 # jeste_teste
-ZDECYDOWANIE TEST
+ZDECYDOWANIE TEST :pizza:
+
+tu coś powinno być napisane
+
+
